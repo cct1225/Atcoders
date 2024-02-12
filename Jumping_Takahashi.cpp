@@ -24,6 +24,7 @@ int main()
             }
         }
     }
+
     if(f[n][goal]==1)   cout<<"Yes";
     else    cout<<"No";
 }
