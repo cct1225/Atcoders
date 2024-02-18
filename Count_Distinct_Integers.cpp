@@ -10,7 +10,7 @@ int main()
         {
             if(a+b==11||a+b==3) cout<<"Yes";
             else cout<<"No";
-        }
+        }SSS
         else if(a==10||b==10)
         {
             if(a+b==11||a+b==19) cout<<"Yes";
